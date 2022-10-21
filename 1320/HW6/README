@@ -1,0 +1,37 @@
+***README***
+
+C files included: main.c, stack_queue.c, hw6.c, stack_queue.h, hw6.h
+
+--------
+
+main.c runs both the prompts
+stack_queue.c hold all of the stack and queue function definitions
+hw6.c holds all of the prompt functions
+
+--------
+
+Compilation instructions:
+
+gcc main.c stack_queue.c hw6.c -o prompt
+./prompt
+
+(Note: a makefile exists, but my lap top is not configured to compile make files, so it may not work properly)
+
+There is a question in main asking which prompt to perform. 1 or 2 are valid choices
+
+
+--------
+
+In prompt 1, the tip jar will only pop up to two times, meaning the wage earned should not be
+bigger than the last two tip entries combined
+
+-The menu in prompt one takes 1, 2 or 3 as valid choices
+
+
+---------
+
+In prompt 2, please make sure to have the customers.txt file present in the working directory, since the filename is hardcoded
+
+
+
+

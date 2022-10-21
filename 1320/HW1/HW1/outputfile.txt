@@ -1,0 +1,10 @@
+---Followers for Teddy: 100
+---Followers for Dave: 200
+---Followers for Chauncey: 300
+---Followers for Terrell: 500
+---Followers for Mark: 20
+---Followers for Levi: 700
+---Followers for Eric: 700
+
+--Most followers: Levi with 700 followers!
+This user gets 3500 dollars!

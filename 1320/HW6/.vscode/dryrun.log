@@ -1,0 +1,10 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `/c/Users/neboj/OneDrive/Desktop/CS/1320/HW6'
+gcc -c main.c
+ 
+gcc -c stack_queue.c
+ 
+gcc -c hw6.c
+gcc main.c stack_queue.c hw6.c -o output
+make.exe: Leaving directory `/c/Users/neboj/OneDrive/Desktop/CS/1320/HW6'
+ 
